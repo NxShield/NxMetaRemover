@@ -1,0 +1,8 @@
+.py3
+__pycache__
+.gitconfig
+.token
+*.jpg
+*.jpeg
+*.png
+
